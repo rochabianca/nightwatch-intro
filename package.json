@@ -11,6 +11,6 @@
   "description": "",
   "devDependencies": {
     "chromedriver": "^75.0.1",
-    "nightwatch": "^1.1.13"
+    "nightwatch": "^1.7.13"
   }
 }
